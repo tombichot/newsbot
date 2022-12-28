@@ -1,0 +1,21 @@
+[
+	{
+		"subject":"Apple",
+		"include":["iphone 15", "apple car ", "imac pro", "mac studio", "ios 17", "airpods max 2"],
+		"exclude":["apple watch", "homepod", "review"], 
+		"sources":[
+			{
+				"name":"AppleInsider",
+				"rss-link":"https://appleinsider.com/rss/news"
+			},
+			{
+				"name":"9to5Mac",
+				"rss-link":"https://9to5mac.com/feed"
+			},
+			{
+				"name":"MacRumors",
+				"rss-link":"https://feeds.macrumors.com/MacRumors-All"
+			}
+		]
+	}
+]
